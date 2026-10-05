@@ -3,3 +3,5 @@ A memory image was captured from a university workstation shortly before it stop
 Most of the activity appears normal, but investigators believe 0xGhost executed something that never reached the hard drive—or did not remain there for long.
 Examine the memory image, reconstruct the suspicious activity and recover the flags. There are flags, part 1 and part2.
 Flag format: MDXFlag{...}
+
+Link to download the file: https://middlesexmauritius-my.sharepoint.com/:u:/g/personal/k_veerabudren_mdx_ac_mu/IQBmQM7Ss53HS6LidBIRoaDtAfNGR6sy4Nv-8H5ekdUG_x4?e=bRuXEy
