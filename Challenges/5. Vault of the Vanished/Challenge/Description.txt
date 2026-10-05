@@ -1,0 +1,13 @@
+Case File 05: Vault of the Vanished
+
+A protected archive was recovered from a damaged storage system. Several files appear to have disappeared, and the remaining evidence is incomplete.
+
+0xGhost left only two messages:
+
+“If you want in, just ask to be let in. Though nothing stays quite the way you remember it.”
+
+“Deletion is not ….”
+
+Examine the archive, recover what was lost and uncover the flag.
+
+Flag format: MDXFlag{...}

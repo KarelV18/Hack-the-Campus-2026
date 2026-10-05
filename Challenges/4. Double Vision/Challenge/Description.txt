@@ -1,0 +1,11 @@
+Case File 04: Double Vision
+
+During the incident, unusual traffic was detected on the robotics lab network. The capture was secured inside the robotics display area before it could be examined.
+
+Locate the display area and determine the proper way to obtain authorized access. A QR code inside contains the evidence required for your investigation.
+
+Do not enter without permission, follow someone through a secured door, or interfere with laboratory equipment.
+
+Remember: what appears ordinary at first may deserve a second look.
+
+Flag format: MDXFlag{...}

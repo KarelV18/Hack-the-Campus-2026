@@ -1,0 +1,7 @@
+Case File 01: The Shifted Message
+
+The first message from 0xGhost was intercepted shortly after the incident began. Its contents appear meaningless, but the structure looks familiar.
+Decrypt the message and follow the instructions it contains. Evidence may not always remain behind a screen.
+Only approach clearly identified competition volunteers. Do not photograph anyone without permission.
+
+Flag format: MDXFlag{...}

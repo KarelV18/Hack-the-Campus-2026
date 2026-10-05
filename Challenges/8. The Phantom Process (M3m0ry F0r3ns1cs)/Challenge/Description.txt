@@ -1,0 +1,5 @@
+Case File 07: The Phantom Process
+A memory image was captured from a university workstation shortly before it stopped responding.
+Most of the activity appears normal, but investigators believe 0xGhost executed something that never reached the hard drive—or did not remain there for long.
+Examine the memory image, reconstruct the suspicious activity and recover the flags. There are flags, part 1 and part2.
+Flag format: MDXFlag{...}
